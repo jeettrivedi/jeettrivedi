@@ -1,6 +1,6 @@
 ### Hi there,
 
-I am a data scientist and backend developer.
+I am a data scientist.
 
 - 🌱 I’m currently learning Topological Data Analysis and NLP.
 - 📫 How to reach me: [Email](mailto:jtriv@protonmail.com), [Website](https://delsq.xyz/), [LinkedIn](https://www.linkedin.com/in/jeet-trivedi/), [Twitter](https://www.twitter.com/jeettriv/)
