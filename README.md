@@ -1,9 +1,9 @@
 ### Hi there,
 
-I am a data scientist.
+I am a backend developer and data scientist.
 
-- 🌱 I’m currently learning Topological Data Analysis and NLP.
-- 📫 How to reach me: [Email](mailto:jtriv@protonmail.com), [Website](https://delsq.xyz/), [LinkedIn](https://www.linkedin.com/in/jeet-trivedi/), [Twitter](https://www.twitter.com/jeettriv/)
+- 📫 How to reach me: [Email](mailto:jtriv@protonmail.com), [Website](https://delsq.xyz/), [LinkedIn](https://www.linkedin.com/in/jeet-trivedi/)
+<!--
 - ⚡ Fun fact: If  you PGP encrypt and sign your emails to me, you will receive a faster response. 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -40,7 +40,7 @@ PccbztArtpJg67HdflMDeHsrHyNOD3IFSP3drknHSh9E7pd5pjwFZcwrs81JB0kClk93tKOZrjmjRoHc
 -----END PGP PUBLIC KEY BLOCK-----
 
 ```
-<!--
+
 **jeettrivedi/jeettrivedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
